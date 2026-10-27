@@ -1,4 +1,4 @@
-<img width="1250" height="200" alt="image" src="https://github.com/user-attachments/assets/6ab7e836-c5a1-482d-87ff-55ecae105779" />
+<img width="1250" height="200" alt="image" src="banner.png" />
 
 # AniScraper
 
